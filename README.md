@@ -73,6 +73,4 @@
 ---
 
 ## Контакты
-
-GitHub: https://github.com/artemiilin
 Telegram: @Artemiy_Ilin
