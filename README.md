@@ -1,4 +1,4 @@
-# Привет! Меня зовут Артемий 👋
+# Привет! Меня зовут Артемий 
 
 Я начинающий Data Analyst.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Стек технологий
+## Стек технологий
 
 - SQL (PostgreSQL)
 - Python
@@ -21,9 +21,9 @@
 
 ---
 
-## 📊 Проекты
+## Проекты
 
-### 🎟️ Yandex Afisha User Behavior Analysis
+### Yandex Afisha User Behavior Analysis
 
 Исследовательский анализ поведения пользователей сервиса Яндекс Афиша.
 
@@ -33,11 +33,10 @@
 - Статистические гипотезы
 - Визуализация данных
 
-➡️ https://github.com/artemiilin/afisha-user-behavior-analysis
 
 ---
 
-### 🧪 BitMotion Kit A/B Test Analysis
+### BitMotion Kit A/B Test Analysis
 
 Проверка статистических гипотез и анализ результатов A/B-тестирования.
 
@@ -47,11 +46,10 @@
 - Проверка гипотез
 - Анализ конверсии
 
-➡️ https://github.com/artemiilin/bitmotion-kit-ab-test-analysis
 
 ---
 
-### 🚀 Startup Investment Analysis
+### Startup Investment Analysis
 
 Анализ инвестиционной активности стартапов и венчурного рынка.
 
@@ -61,11 +59,10 @@
 - Анализ трендов
 - Business Analytics
 
-➡️ https://github.com/artemiilin/startup-investment-analysis
 
 ---
 
-## 🎯 Сейчас изучаю
+## Сейчас изучаю
 
 - Продвинутый SQL
 - PostgreSQL
@@ -75,6 +72,7 @@
 
 ---
 
-## 📫 Контакты
+## Контакты
 
 GitHub: https://github.com/artemiilin
+Telegram: @Artemiy_Ilin
