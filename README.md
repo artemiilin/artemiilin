@@ -1,23 +1,24 @@
 # Привет! Меня зовут Артемий 
 
-Я начинающий Data Analyst.
+Начинающий аналитик данных с инженерным образованием и опытом работы в промышленной разработке.
 
-Сейчас обучаюсь аналитике данных, развиваю навыки в SQL, Python, статистике, теорвере и продуктовом анализе.
+Развиваюсь в направлении Data Analytics и углубляю знания в SQL, Python, Statistics, Probability Theory и Product Analytics.
 
 ---
 
 ## Стек технологий
 
-- SQL (PostgreSQL)
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- SciPy
-- A/B Testing
-- Product Analytics
-- Jupyter Notebook
-- Git & GitHub
+* SQL (PostgreSQL)
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* SciPy
+* Data Analysis
+* A/B Testing
+* Product Analytics
+* Jupyter Notebook
+* Git & GitHub
 
 ---
 
@@ -28,11 +29,11 @@
 Исследовательский анализ поведения пользователей сервиса Яндекс Афиша.
 
 **Навыки:**
-- EDA
-- Pandas
-- Статистические гипотезы
-- Визуализация данных
 
+* Exploratory Data Analysis (EDA)
+* Pandas
+* Statistical Hypothesis Testing
+* Data Visualization
 
 ---
 
@@ -41,11 +42,11 @@
 Проверка статистических гипотез и анализ результатов A/B-тестирования.
 
 **Навыки:**
-- A/B Testing
-- Статистика
-- Проверка гипотез
-- Анализ конверсии
 
+* A/B Testing
+* Statistics
+* Hypothesis Testing
+* Conversion Analysis
 
 ---
 
@@ -54,23 +55,27 @@
 Анализ инвестиционной активности стартапов и венчурного рынка.
 
 **Навыки:**
-- EDA
-- Сегментация данных
-- Анализ трендов
-- Business Analytics
 
+* Exploratory Data Analysis (EDA)
+* Data Segmentation
+* Trend Analysis
+* Business Analytics
 
 ---
 
 ## Сейчас изучаю
 
-- Продвинутый SQL
-- PostgreSQL
-- ClickHouse
-- Продуктовую аналитику
-- A/B-тестирование
+* Advanced SQL
+* PostgreSQL
+* ClickHouse
+* Apache Spark
+* Big Data Fundamentals
 
 ---
 
 ## Контакты
+
 Telegram: @Artemiy_Ilin
+
+Email: [artemijilin403@gmail.com](mailto:artemijilin403@gmail.com)
+
